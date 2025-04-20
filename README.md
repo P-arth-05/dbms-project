@@ -33,7 +33,7 @@ Built using **Next.js**, **TypeScript**, **TailwindCSS**, and **Supabase**, the 
 
 | Layer     | Tools / Frameworks                                  |
 |-----------|------------------------------------------------------|
-| Frontend  | Next.js, React, TypeScript, TailwindCSS, ShadCN UI  |
+| Frontend  | Next.js, React, TypeScript, TailwindCSS, ShadCN UI, lenis |
 | Backend   | Supabase (PostgreSQL, Auth, RLS, Storage)           |
 | Design    | Figma, Custom Components                            |
 | Deployment| Vercel                                               |
@@ -103,6 +103,8 @@ Built using **Next.js**, **TypeScript**, **TailwindCSS**, and **Supabase**, the 
 - Supabase
 - Lucide Icons
 - Next.js
+- shadcn ui
+- lenis
 
 ---
 
