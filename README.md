@@ -8,7 +8,7 @@ Built using **Next.js**, **TypeScript**, **TailwindCSS**, and **Supabase**, the 
 ---
 
 ## 🚀 Live Demo
-[Click to View the Hosted Site](https://your-vercel-url.vercel.app)
+[Click to View the Hosted Site](https://health-track-rust.vercel.app/)
 
 ---
 
